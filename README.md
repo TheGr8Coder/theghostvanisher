@@ -1,3 +1,1 @@
-<h3>⏬ Website Link ⏬<h3>
-# https://bit.ly/GhostVanisher
-<h2 style= text-align=center>Rushil's Ghost Vanisher.<h2>
+Just a little game which I made using Microsoft's MakeCode Arcade. Ported to Github for slight modifications.
